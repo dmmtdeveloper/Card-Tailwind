@@ -1,4 +1,4 @@
-# Descripción
+# Descripción 🙂
 Creo una card Resposnive con Tailwindcss
 ## Autor
 **David Martínez**
